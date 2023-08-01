@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libFw_Cmd.a CMakeFiles/Fw_Cmd.dir/CmdArgBuffer.cpp.o CMakeFiles/Fw_Cmd.dir/CmdPacket.cpp.o CMakeFiles/Fw_Cmd.dir/CmdString.cpp.o CMakeFiles/Fw_Cmd.dir/CmdPortAc.cpp.o CMakeFiles/Fw_Cmd.dir/CmdRegPortAc.cpp.o CMakeFiles/Fw_Cmd.dir/CmdResponseEnumAc.cpp.o CMakeFiles/Fw_Cmd.dir/CmdResponsePortAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libFw_Cmd.a

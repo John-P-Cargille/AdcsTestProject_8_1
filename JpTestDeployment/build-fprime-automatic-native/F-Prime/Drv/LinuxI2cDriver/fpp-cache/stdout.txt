@@ -1,0 +1,2 @@
+/home/jpubuntu/AdcsTestProject/fprime/Drv/I2cDriverPorts/I2cDriverPorts.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Buffer/Buffer.fpp

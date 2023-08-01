@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_Seq.a CMakeFiles/Svc_Seq.dir/CmdSeqCancelPortAc.cpp.o CMakeFiles/Svc_Seq.dir/CmdSeqInPortAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_Seq.a

@@ -1,0 +1,3 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileManager/Commands.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileManager/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileManager/Telemetry.fppi

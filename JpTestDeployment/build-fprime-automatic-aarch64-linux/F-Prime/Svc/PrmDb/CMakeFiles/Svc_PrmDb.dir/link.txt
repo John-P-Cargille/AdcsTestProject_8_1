@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_PrmDb.a CMakeFiles/Svc_PrmDb.dir/PrmDbImpl.cpp.o CMakeFiles/Svc_PrmDb.dir/PrmDb_PrmReadErrorEnumAc.cpp.o CMakeFiles/Svc_PrmDb.dir/PrmDb_PrmWriteErrorEnumAc.cpp.o CMakeFiles/Svc_PrmDb.dir/PrmDbComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_PrmDb.a

@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libDrv_LinuxGpioDriver.a CMakeFiles/Drv_LinuxGpioDriver.dir/LinuxGpioDriverComponentImplCommon.cpp.o CMakeFiles/Drv_LinuxGpioDriver.dir/LinuxGpioDriverComponentImpl.cpp.o CMakeFiles/Drv_LinuxGpioDriver.dir/LinuxGpioDriverComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libDrv_LinuxGpioDriver.a

@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_BufferManager.a CMakeFiles/Svc_BufferManager.dir/BufferManagerComponentImpl.cpp.o CMakeFiles/Svc_BufferManager.dir/BufferManagerComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_BufferManager.a

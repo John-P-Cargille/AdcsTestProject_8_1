@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libFw_Com.a CMakeFiles/Fw_Com.dir/ComPacket.cpp.o CMakeFiles/Fw_Com.dir/ComBuffer.cpp.o CMakeFiles/Fw_Com.dir/ComPortAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libFw_Com.a

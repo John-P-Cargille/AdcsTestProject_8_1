@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_GenericHub.a CMakeFiles/Svc_GenericHub.dir/GenericHubComponentImpl.cpp.o CMakeFiles/Svc_GenericHub.dir/GenericHubComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_GenericHub.a

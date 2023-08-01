@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_Framer.a CMakeFiles/Svc_Framer.dir/Framer.cpp.o CMakeFiles/Svc_Framer.dir/FramerComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_Framer.a

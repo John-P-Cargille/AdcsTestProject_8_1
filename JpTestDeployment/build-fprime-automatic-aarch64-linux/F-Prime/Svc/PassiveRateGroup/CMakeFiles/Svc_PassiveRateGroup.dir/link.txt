@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_PassiveRateGroup.a CMakeFiles/Svc_PassiveRateGroup.dir/PassiveRateGroup.cpp.o CMakeFiles/Svc_PassiveRateGroup.dir/PassiveRateGroupComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_PassiveRateGroup.a

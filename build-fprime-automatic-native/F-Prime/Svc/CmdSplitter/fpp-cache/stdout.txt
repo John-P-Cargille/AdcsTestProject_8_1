@@ -1,0 +1,3 @@
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/AdcsTestProject/fprime/config/FpConfig.fpp

@@ -1,0 +1,3 @@
+/home/jpubuntu/AdcsTestProject/fprime/Svc/BufferLogger/Commands.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/BufferLogger/Events.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/BufferLogger/Telemetry.fppi

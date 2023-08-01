@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_BufferRepeater.a CMakeFiles/Svc_BufferRepeater.dir/home/jpubuntu/CaNOP_FSW/fprime/cmake/empty.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_BufferRepeater.a

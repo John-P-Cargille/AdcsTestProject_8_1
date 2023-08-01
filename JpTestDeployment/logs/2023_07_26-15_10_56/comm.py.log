@@ -1,0 +1,15 @@
+[2023-07-26 15:11:01,674] [INFO] root: Logging system initialized!
+[2023-07-26 15:11:01,675] [INFO] root: Logging system initialized!
+[2023-07-26 15:11:01,675] [INFO] root: Logging system initialized!
+[2023-07-26 15:11:01,675] [INFO] comm: Starting uplinker/downlinker connecting to FSW using Paired-TCP/UDP@0.0.0.0:50000 with FpFramerDeframer
+[2023-07-26 15:11:01,675] [INFO] comm: Starting uplinker/downlinker connecting to FSW using Paired-TCP/UDP@0.0.0.0:50000 with FpFramerDeframer
+[2023-07-26 15:11:01,679] [INFO] gds_sender: Client connected to 0.0.0.0:50050
+[2023-07-26 15:11:01,679] [INFO] gds_sender: Client connected to 0.0.0.0:50050
+[2023-07-26 15:11:01,681] [INFO] udp_handler: Server connected to 0.0.0.0:50000
+[2023-07-26 15:11:01,681] [INFO] udp_handler: Server connected to 0.0.0.0:50000
+[2023-07-26 15:13:11,517] [INFO] tcp_handler: Server connected to 0.0.0.0:50000
+[2023-07-26 15:13:11,517] [INFO] tcp_handler: Server connected to 0.0.0.0:50000
+[2023-07-26 15:37:56,585] [WARNING] tcp_handler: Read failure attempting reconnection. TimeoutError: [Errno 110] Connection timed out
+[2023-07-26 15:37:56,585] [WARNING] tcp_handler: Read failure attempting reconnection. TimeoutError: [Errno 110] Connection timed out
+[2023-07-27 09:36:15,956] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 22] Invalid argument
+[2023-07-27 09:36:15,956] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 22] Invalid argument

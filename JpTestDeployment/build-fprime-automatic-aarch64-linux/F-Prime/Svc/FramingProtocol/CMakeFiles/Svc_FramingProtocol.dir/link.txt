@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_FramingProtocol.a CMakeFiles/Svc_FramingProtocol.dir/DeframingProtocol.cpp.o CMakeFiles/Svc_FramingProtocol.dir/FramingProtocol.cpp.o CMakeFiles/Svc_FramingProtocol.dir/FprimeProtocol.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_FramingProtocol.a

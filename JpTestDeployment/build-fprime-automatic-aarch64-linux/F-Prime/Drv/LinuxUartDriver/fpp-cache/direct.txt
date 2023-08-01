@@ -1,0 +1,5 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/LinuxUartDriver/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/LinuxUartDriver/Telemetry.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Tlm/Tlm.fpp

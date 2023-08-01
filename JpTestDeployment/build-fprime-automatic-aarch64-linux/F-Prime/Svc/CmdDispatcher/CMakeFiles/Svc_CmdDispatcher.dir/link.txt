@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_CmdDispatcher.a CMakeFiles/Svc_CmdDispatcher.dir/CommandDispatcherImpl.cpp.o CMakeFiles/Svc_CmdDispatcher.dir/CommandDispatcherComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_CmdDispatcher.a

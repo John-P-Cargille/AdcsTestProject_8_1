@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_ActiveRateGroup.a CMakeFiles/Svc_ActiveRateGroup.dir/ActiveRateGroup.cpp.o CMakeFiles/Svc_ActiveRateGroup.dir/ActiveRateGroupComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_ActiveRateGroup.a

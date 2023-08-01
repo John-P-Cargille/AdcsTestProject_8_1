@@ -1,0 +1,65 @@
+[2023-07-28 10:01:13,306] [INFO] root: Logging system initialized!
+[2023-07-28 10:01:13,306] [INFO] root: Logging system initialized!
+[2023-07-28 10:01:13,306] [INFO] root: Logging system initialized!
+[2023-07-28 10:01:13,306] [INFO] comm: Starting uplinker/downlinker connecting to FSW using Paired-TCP/UDP@0.0.0.0:50000 with FpFramerDeframer
+[2023-07-28 10:01:13,306] [INFO] comm: Starting uplinker/downlinker connecting to FSW using Paired-TCP/UDP@0.0.0.0:50000 with FpFramerDeframer
+[2023-07-28 10:01:13,306] [INFO] gds_sender: Client connected to 0.0.0.0:50050
+[2023-07-28 10:01:13,306] [INFO] gds_sender: Client connected to 0.0.0.0:50050
+[2023-07-28 10:01:13,307] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:13,307] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:13,309] [INFO] udp_handler: Server connected to 0.0.0.0:50000
+[2023-07-28 10:01:13,309] [INFO] udp_handler: Server connected to 0.0.0.0:50000
+[2023-07-28 10:01:14,309] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:14,309] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:15,309] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:15,309] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:16,309] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:16,309] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:17,310] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:17,310] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:18,310] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:18,310] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:19,311] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:19,311] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:20,311] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:20,311] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:21,311] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:21,311] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:22,312] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:22,312] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:23,312] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:23,312] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:24,312] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:24,312] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:25,313] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:25,313] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:26,313] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:26,313] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:27,313] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:27,313] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:28,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:28,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:29,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:29,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:30,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:30,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:31,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:31,314] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:32,315] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:32,315] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:33,315] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:33,315] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:34,315] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:34,315] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:35,316] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:35,316] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:36,316] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:36,316] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:37,316] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:37,316] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:38,317] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:38,317] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:39,317] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:39,317] [WARNING] tcp_handler: Failed to open socket at 0.0.0.0:50000, retrying: OSError: [Errno 98] Address already in use
+[2023-07-28 10:01:40,530] [INFO] tcp_handler: Server connected to 0.0.0.0:50000
+[2023-07-28 10:01:40,530] [INFO] tcp_handler: Server connected to 0.0.0.0:50000

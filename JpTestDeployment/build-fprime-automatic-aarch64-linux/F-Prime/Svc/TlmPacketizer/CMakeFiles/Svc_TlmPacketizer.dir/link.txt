@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_TlmPacketizer.a CMakeFiles/Svc_TlmPacketizer.dir/TlmPacketizer.cpp.o CMakeFiles/Svc_TlmPacketizer.dir/TlmPacketizerComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_TlmPacketizer.a

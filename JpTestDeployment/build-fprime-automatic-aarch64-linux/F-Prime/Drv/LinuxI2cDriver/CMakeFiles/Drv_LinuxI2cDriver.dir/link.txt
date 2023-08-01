@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libDrv_LinuxI2cDriver.a CMakeFiles/Drv_LinuxI2cDriver.dir/LinuxI2cDriver.cpp.o CMakeFiles/Drv_LinuxI2cDriver.dir/LinuxI2cDriverComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libDrv_LinuxI2cDriver.a

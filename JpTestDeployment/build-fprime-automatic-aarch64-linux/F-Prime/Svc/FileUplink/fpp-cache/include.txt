@@ -1,0 +1,2 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileUplink/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileUplink/Telemetry.fppi

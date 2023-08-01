@@ -1,0 +1,2 @@
+/home/jpubuntu/AdcsTestProject/fprime/Svc/Fatal/Fatal.fpp
+/home/jpubuntu/AdcsTestProject/fprime/config/FpConfig.fpp

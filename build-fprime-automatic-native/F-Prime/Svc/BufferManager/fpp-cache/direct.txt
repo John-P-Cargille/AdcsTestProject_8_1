@@ -1,0 +1,7 @@
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Buffer/Buffer.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Time/Time.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Svc/BufferManager/Events.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/BufferManager/Telemetry.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/Sched/Sched.fpp

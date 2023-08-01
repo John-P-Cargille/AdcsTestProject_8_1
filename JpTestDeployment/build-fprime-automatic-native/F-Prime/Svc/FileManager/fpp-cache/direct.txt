@@ -1,0 +1,7 @@
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Svc/FileManager/Commands.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/FileManager/Events.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/FileManager/Telemetry.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/Ping/Ping.fpp

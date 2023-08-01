@@ -1,0 +1,3 @@
+2023-06-14 21:08:04,(2(0)-1686794884:702854),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0xe00 dispatched to port 0
+2023-06-14 21:08:04,(2(0)-1686794884:702900),adcsComponent.READ_FAIL_OPEN,3587,EventSeverity.WARNING_HI,Failed to open the connection with register f8
+2023-06-14 21:08:04,(2(0)-1686794884:703116),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0xe00 completed

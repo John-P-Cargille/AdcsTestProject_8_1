@@ -1,0 +1,3 @@
+/home/jpubuntu/AdcsTestProject/fprime/Svc/FileManager/Commands.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/FileManager/Events.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/FileManager/Telemetry.fppi

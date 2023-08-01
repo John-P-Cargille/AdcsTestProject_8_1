@@ -1,0 +1,8 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/I2cDriverPorts/I2cDriverPorts.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Buffer/Buffer.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Prm/Prm.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Time/Time.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/config/FpConfig.fpp

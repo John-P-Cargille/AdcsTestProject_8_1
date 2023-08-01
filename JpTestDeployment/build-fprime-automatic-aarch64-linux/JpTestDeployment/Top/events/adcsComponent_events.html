@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>adcsComponent:AdcsComponent Component Dictionary</title>
+</head>
+<body>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+th {
+    text-align: left;
+}
+html {
+    font-family: Arial, sans-serif ;
+    font-size: 90% ;
+}
+</style>
+
+<h1><b>Events: adcsComponent:AdcsComponent</b></h1>
+
+<table>
+	<thead>
+		<tr style = "border-right: 2px solid black; border-left: 2px solid black; border-top: 2px solid black;">
+			<th rowspan = "2">Event Name</th>
+			<th rowspan = "2">ID</th>
+			<th rowspan = "2">Description</th>
+			<th rowspan = "1" colspan = "4">Arguments</th>
+		</tr>
+		<tr style = "border-right: 2px solid black; ">
+			<th>Argument</th>
+			<th>Type</th>
+			<th>Size</th>
+			<th>Description</th>
+		<tr>
+	</thead>
+	<tbody>
+
+		<tr style = "border: 2px solid black;">
+			<td rowspan="3">READ_SUCCESS</td>
+			<td rowspan="3">3584 (0xe00)</td>
+			<td rowspan="3">Event saying read event was successful</td>
+					<tr style = "border-right: 2px solid black;border-top: 2px solid black;">
+						<td>address</td>
+						<td>U32</td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr style = "border-right: 2px solid black;border-bottom: 2px solid black;">
+						<td>message</td>
+						<td>U8</td>
+						<td></td>
+						<td></td>
+					</tr>
+		</tr>
+		<tr style = "border: 2px solid black;">
+			<td rowspan="2">READ_FAIL_ADDRESS</td>
+			<td rowspan="2">3585 (0xe01)</td>
+			<td rowspan="2">Event saying read event failed due to an address error</td>
+					<tr style = "border-right: 2px solid black;border-top: 2px solid black;border-bottom: 2px solid black;">
+						<td>address</td>
+						<td>U32</td>
+						<td></td>
+						<td></td>
+					</tr>
+		</tr>
+		<tr style = "border: 2px solid black;">
+			<td rowspan="2">READ_FAIL_GENERAL</td>
+			<td rowspan="2">3586 (0xe02)</td>
+			<td rowspan="2">Event saying read event failed due to an address error</td>
+					<tr style = "border-right: 2px solid black;border-top: 2px solid black;border-bottom: 2px solid black;">
+						<td>address</td>
+						<td>U32</td>
+						<td></td>
+						<td></td>
+					</tr>
+		</tr>
+		<tr style = "border: 2px solid black;">
+			<td rowspan="2">READ_FAIL_OPEN</td>
+			<td rowspan="2">3587 (0xe03)</td>
+			<td rowspan="2">Event saying read event failed due to an address error</td>
+					<tr style = "border-right: 2px solid black;border-top: 2px solid black;border-bottom: 2px solid black;">
+						<td>address</td>
+						<td>U32</td>
+						<td></td>
+						<td></td>
+					</tr>
+		</tr>
+		<tr style = "border: 2px solid black;">
+			<td rowspan="2">READ_FAIL_OTHER</td>
+			<td rowspan="2">3588 (0xe04)</td>
+			<td rowspan="2">Event saying read event failed due to an address error</td>
+					<tr style = "border-right: 2px solid black;border-top: 2px solid black;border-bottom: 2px solid black;">
+						<td>address</td>
+						<td>U32</td>
+						<td></td>
+						<td></td>
+					</tr>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>

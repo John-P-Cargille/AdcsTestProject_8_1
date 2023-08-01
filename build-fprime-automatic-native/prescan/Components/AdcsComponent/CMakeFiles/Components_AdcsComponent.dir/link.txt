@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/Linux/libComponents_AdcsComponent.a CMakeFiles/Components_AdcsComponent.dir/__/__/fprime/cmake/empty.cpp.o
+/usr/bin/ranlib ../../lib/Linux/libComponents_AdcsComponent.a

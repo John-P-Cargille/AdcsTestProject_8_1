@@ -1,0 +1,2 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Com/Com.fpp

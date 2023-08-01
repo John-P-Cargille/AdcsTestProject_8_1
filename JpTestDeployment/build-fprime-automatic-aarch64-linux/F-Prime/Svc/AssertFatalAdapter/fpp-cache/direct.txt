@@ -1,0 +1,2 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/AssertFatalAdapter/AssertFatalEvents.fppi

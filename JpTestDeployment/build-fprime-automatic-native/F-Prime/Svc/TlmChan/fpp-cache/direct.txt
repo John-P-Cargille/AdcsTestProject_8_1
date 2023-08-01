@@ -1,0 +1,4 @@
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Svc/Ping/Ping.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Svc/Sched/Sched.fpp

@@ -1,0 +1,5 @@
+/home/jpubuntu/AdcsTestProject/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Drv/LinuxSpiDriver/Telemetry.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Drv/SpiDriverPorts/SpiDriverPorts.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Tlm/Tlm.fpp

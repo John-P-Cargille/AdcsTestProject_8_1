@@ -1,0 +1,2 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/BufferManager/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/BufferManager/Telemetry.fppi

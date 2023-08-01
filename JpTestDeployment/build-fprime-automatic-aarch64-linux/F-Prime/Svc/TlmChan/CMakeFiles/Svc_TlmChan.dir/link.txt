@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_TlmChan.a CMakeFiles/Svc_TlmChan.dir/TlmChan.cpp.o CMakeFiles/Svc_TlmChan.dir/TlmChanComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_TlmChan.a

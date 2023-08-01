@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libDrv_BlockDriver.a CMakeFiles/Drv_BlockDriver.dir/BlockDriverImpl.cpp.o CMakeFiles/Drv_BlockDriver.dir/BlockDriverComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libDrv_BlockDriver.a

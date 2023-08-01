@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_Deframer.a CMakeFiles/Svc_Deframer.dir/Deframer.cpp.o CMakeFiles/Svc_Deframer.dir/DeframerComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_Deframer.a

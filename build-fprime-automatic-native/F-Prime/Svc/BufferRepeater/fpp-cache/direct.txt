@@ -1,0 +1,3 @@
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Buffer/Buffer.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/AdcsTestProject/fprime/config/AcConstants.fpp

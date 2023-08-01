@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libDrv_SpiDriverPorts.a CMakeFiles/Drv_SpiDriverPorts.dir/SpiReadWritePortAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libDrv_SpiDriverPorts.a

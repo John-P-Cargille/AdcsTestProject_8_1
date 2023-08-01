@@ -1,0 +1,7 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Buffer/Buffer.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Time/Time.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/BufferManager/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/BufferManager/Telemetry.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/Sched/Sched.fpp

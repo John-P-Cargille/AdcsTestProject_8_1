@@ -1,0 +1,6 @@
+#!/home/joeys/CaNOP/CaNOP_FSW/venv/bin/python
+
+from Cheetah import DirectiveAnalyzer
+
+if __name__ == '__main__':
+    DirectiveAnalyzer.main()

@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libFw_CompQueued.a CMakeFiles/Fw_CompQueued.dir/QueuedComponentBase.cpp.o CMakeFiles/Fw_CompQueued.dir/ActiveComponentBase.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libFw_CompQueued.a

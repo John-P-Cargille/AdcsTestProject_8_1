@@ -1,0 +1,6 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Cmd/Cmd.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/ComLogger/Commands.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/ComLogger/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/Ping/Ping.fpp

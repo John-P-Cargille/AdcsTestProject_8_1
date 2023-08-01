@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libFw_Buffer.a CMakeFiles/Fw_Buffer.dir/Buffer.cpp.o CMakeFiles/Fw_Buffer.dir/BufferGetPortAc.cpp.o CMakeFiles/Fw_Buffer.dir/BufferSendPortAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libFw_Buffer.a

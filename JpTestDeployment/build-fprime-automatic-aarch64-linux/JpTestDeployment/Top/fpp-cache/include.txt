@@ -1,0 +1,15 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/BlockDriver/Tlm.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/AssertFatalAdapter/AssertFatalEvents.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/BufferManager/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/BufferManager/Telemetry.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/CmdSequencer/Commands.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/CmdSequencer/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/CmdSequencer/Telemetry.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileDownlink/Commands.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileDownlink/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileDownlink/Telemetry.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileManager/Commands.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileManager/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileManager/Telemetry.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileUplink/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/FileUplink/Telemetry.fppi

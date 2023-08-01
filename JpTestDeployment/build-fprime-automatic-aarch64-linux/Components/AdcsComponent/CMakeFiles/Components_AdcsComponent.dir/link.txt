@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../lib/aarch64-linux/libComponents_AdcsComponent.a CMakeFiles/Components_AdcsComponent.dir/AdcsComponent.cpp.o CMakeFiles/Components_AdcsComponent.dir/AdcsComponentComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../lib/aarch64-linux/libComponents_AdcsComponent.a

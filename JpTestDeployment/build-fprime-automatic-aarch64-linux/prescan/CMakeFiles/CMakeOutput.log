@@ -1,0 +1,56 @@
+The target system is: Linux - 0.2 - aarch64
+The host system is: Linux - 5.15.90.1-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /opt/toolchains/bin/aarch64-none-linux-gnu-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/3.22.1/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /opt/toolchains/bin/aarch64-none-linux-gnu-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/3.22.1/CompilerIdCXX/a.out"
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_bbc56/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_bbc56.dir/build.make CMakeFiles/cmTC_bbc56.dir/build
+gmake[1]: Entering directory '/home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bbc56.dir/CheckIncludeFile.c.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-gcc   -std=c99 -o CMakeFiles/cmTC_bbc56.dir/CheckIncludeFile.c.o -c /home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_bbc56
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bbc56.dir/link.txt --verbose=1
+/opt/toolchains/bin/aarch64-none-linux-gnu-gcc CMakeFiles/cmTC_bbc56.dir/CheckIncludeFile.c.o -o cmTC_bbc56 
+gmake[1]: Leaving directory '/home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_ce17a/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ce17a.dir/build.make CMakeFiles/cmTC_ce17a.dir/build
+gmake[1]: Entering directory '/home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ce17a.dir/CheckFunctionExists.c.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-gcc   -DCHECK_FUNCTION_EXISTS=pthread_create -std=c99 -o CMakeFiles/cmTC_ce17a.dir/CheckFunctionExists.c.o -c /usr/share/cmake-3.22/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ce17a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce17a.dir/link.txt --verbose=1
+/opt/toolchains/bin/aarch64-none-linux-gnu-gcc  -DCHECK_FUNCTION_EXISTS=pthread_create CMakeFiles/cmTC_ce17a.dir/CheckFunctionExists.c.o -o cmTC_ce17a  -lpthread 
+gmake[1]: Leaving directory '/home/jpubuntu/CaNOP_FSW/JpTestDeployment/build-fprime-automatic-aarch64-linux/prescan/CMakeFiles/CMakeTmp'
+
+
+

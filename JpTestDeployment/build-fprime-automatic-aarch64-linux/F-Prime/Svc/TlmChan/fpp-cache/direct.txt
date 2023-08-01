@@ -1,0 +1,4 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Com/Com.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Tlm/Tlm.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/Ping/Ping.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Svc/Sched/Sched.fpp

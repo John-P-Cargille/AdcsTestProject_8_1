@@ -1,0 +1,2 @@
+/opt/toolchains/bin/aarch64-none-linux-gnu-ar qc ../../../lib/aarch64-linux/libSvc_FileDownlink.a CMakeFiles/Svc_FileDownlink.dir/FileDownlink.cpp.o CMakeFiles/Svc_FileDownlink.dir/File.cpp.o CMakeFiles/Svc_FileDownlink.dir/Warnings.cpp.o CMakeFiles/Svc_FileDownlink.dir/FileDownlinkComponentAc.cpp.o
+/opt/toolchains/bin/aarch64-none-linux-gnu-ranlib ../../../lib/aarch64-linux/libSvc_FileDownlink.a

@@ -1,0 +1,3 @@
+/home/jpubuntu/AdcsTestProject/fprime/Svc/CmdSequencer/Commands.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/CmdSequencer/Events.fppi
+/home/jpubuntu/AdcsTestProject/fprime/Svc/CmdSequencer/Telemetry.fppi

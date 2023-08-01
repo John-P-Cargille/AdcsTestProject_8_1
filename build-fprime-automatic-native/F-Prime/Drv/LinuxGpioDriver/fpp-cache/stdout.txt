@@ -1,0 +1,6 @@
+/home/jpubuntu/AdcsTestProject/fprime/Drv/GpioDriverPorts/GpioDriverPorts.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Log/Log.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Time/Time.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Fw/Types/Types.fpp
+/home/jpubuntu/AdcsTestProject/fprime/Svc/Cycle/Cycle.fpp
+/home/jpubuntu/AdcsTestProject/fprime/config/FpConfig.fpp

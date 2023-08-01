@@ -1,0 +1,6 @@
+2023-06-14 21:55:53,(2(0)-1686797753:779232),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0xe00 dispatched to port 0
+2023-06-14 21:55:53,(2(0)-1686797753:779279),adcsComponent.READ_FAIL_OPEN,3587,EventSeverity.WARNING_HI,Failed to open the device with register f8
+2023-06-14 21:55:53,(2(0)-1686797753:779495),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0xe00 completed
+2023-06-14 21:56:22,(2(0)-1686797782:889964),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0xe00 dispatched to port 0
+2023-06-14 21:56:22,(2(0)-1686797782:890016),adcsComponent.READ_FAIL_OPEN,3587,EventSeverity.WARNING_HI,Failed to open the device with register f8
+2023-06-14 21:56:22,(2(0)-1686797782:890207),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0xe00 completed

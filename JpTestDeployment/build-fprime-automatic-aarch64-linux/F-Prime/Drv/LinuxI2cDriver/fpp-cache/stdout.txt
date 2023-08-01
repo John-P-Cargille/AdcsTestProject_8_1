@@ -1,0 +1,2 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/I2cDriverPorts/I2cDriverPorts.fpp
+/home/jpubuntu/CaNOP_FSW/fprime/Fw/Buffer/Buffer.fpp

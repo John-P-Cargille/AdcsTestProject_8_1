@@ -1,0 +1,2 @@
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/LinuxSpiDriver/Events.fppi
+/home/jpubuntu/CaNOP_FSW/fprime/Drv/LinuxSpiDriver/Telemetry.fppi
